@@ -1,0 +1,9 @@
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\bin\Release\Space Apps Challenge Game.exe.config
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\bin\Release\Space Apps Challenge Game.exe
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\bin\Release\Space Apps Challenge Game.pdb
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\obj\Release\Space_Apps_Challenge_Game.Form1.resources
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\obj\Release\Space_Apps_Challenge_Game.Properties.Resources.resources
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\obj\Release\Space Apps Challenge Game.csproj.GenerateResource.cache
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\obj\Release\Space Apps Challenge Game.csproj.CoreCompileInputs.cache
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\obj\Release\Space Apps Challenge Game.exe
+C:\Users\romag\source\repos\Space Apps Challenge Game\Space Apps Challenge Game\obj\Release\Space Apps Challenge Game.pdb
